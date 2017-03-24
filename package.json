@@ -1,0 +1,15 @@
+{
+  "name": "sign-in-with-google-test-server",
+  "version": "1.0.0",
+  "description": "The backend for the Sign In With Google Android test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Rodríguez",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
